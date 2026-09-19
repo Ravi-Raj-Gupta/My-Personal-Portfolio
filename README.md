@@ -101,4 +101,9 @@ This will generate an optimized build in the `dist/` folder, ready for deploymen
 
 ---
 
-*Designed and developed by Ravi.*
+<div align="center">
+
+### Built with ❤️ by **Ravi Raj Gupta** 🚀
+
+</div>
+
